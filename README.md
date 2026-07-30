@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **Modernizing a 20-year-old platform and its engineering org with AI-augmented software engineering practices**
 
-- 🌱 Currently exploring **How AI-native engineering can bake architecture, performance engineering, resiliency, and cost-efficiency into high-throughput / low-latency systems**
+- 🌱 Currently exploring **How AI-native engineering can bake architecture, performance engineering, resiliency, and cost-efficiency into building high-throughput / low-latency systems**
 
 - 💼 Available for:
     - Fractional CTO role
