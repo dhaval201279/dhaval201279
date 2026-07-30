@@ -6,9 +6,9 @@
 - 🌱 Currently exploring **How AI-native engineering can bake architecture, performance engineering, resiliency, and cost-efficiency into high-throughput / low-latency systems**
 
 - 💼 Available for:
-    - Fractional CTO
-    - Hands-on architectural consultancy (greenfield & modernization)
-    - AI-augmented software engineering practice building
+    - Fractional CTO role
+    - Hands-on architectural consultancy (greenfield & modernization initiatives)
+    - AI-augmented software engineering practices
     - Performance Engineering / Optimization (Application, Database, Infrastructure)
     - Architecture Diagnostic Sprints
     - Security audit and remediation
@@ -22,7 +22,7 @@
 
 - 📫 Reach me: **dhaval@dhaval-shah.com**
 
-- 📄 Profile: [https://drive.google.com/file/d/18UtugbqQJ9a5h-3lPWWZRAdBdcaO8tzA/view?usp=sharing]
+- 📄 Profile: [Consulting Cloud Native Architect](https://drive.google.com/file/d/18UtugbqQJ9a5h-3lPWWZRAdBdcaO8tzA/view?usp=sharing)
 
 ### Selected work
 - 🔗 [se-ai-templates](https://github.com/dhaval201279/se-ai-templates) — Reusable AI-augmented prompt templates for ADRs, Performance Engineering, DB Optimization, SRE, FinOps & Cost Optimization
