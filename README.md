@@ -25,7 +25,7 @@
 - 📄 Profile: [Consulting Cloud Native Architect](https://drive.google.com/file/d/18UtugbqQJ9a5h-3lPWWZRAdBdcaO8tzA/view?usp=sharing)
 
 ### Selected work
-- 🔗 [se-ai-templates](https://github.com/dhaval201279/se-ai-templates) — Reusable AI-augmented prompt templates for ADRs, Performance Engineering, DB Optimization, SRE, FinOps & Cost Optimization
+- 🔗 [se-ai-templates](https://github.com/dhaval201279/se-ai-template) — Reusable AI-augmented prompt templates for ADRs, Performance Engineering, DB Optimization, SRE, FinOps & Cost Optimization
 - 🔗 [Beyond Throughput with Virtual Threads](https://www.dhaval-shah.com/parallel-processing-virtual-threads-reactor-vs-jdk/) — JDK vs. Spring Reactor virtual threads, real throughput data
 - 🔗 [PostgreSQL optimization study](https://www.dhaval-shah.com/db-optimization-ai-review/) — 10M-row payment dataset, EXPLAIN ANALYZE and optimization walkthrough
 - 🔗 [IRIS cross-cloud file transfer](https://www.dhaval-shah.com/cross-cloud-data-highway-architecture/) — AWS S3 → Azure Blob, Spring Boot/Project Reactor, Adaptive concurrency
