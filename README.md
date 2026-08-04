@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhaval Shah</h1>
-<h3 align="center">Consulting Cloud Native Architect - FinTech. 21+ years making enterprise systems fast, resilient, and cost-efficient. ex-Mastercard.</h3>
+<h3 align="center">Consulting Cloud Native Architect - FinTech. 21+ years making enterprise systems fast, resilient and cost-efficient. ex-Mastercard.</h3>
 
 - 🔭 Currently working on **Modernizing a 20-year-old platform and its engineering org with AI-augmented software engineering practices**
 
