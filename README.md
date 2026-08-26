@@ -33,11 +33,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Architect&#39;s Dilemma: Validating a Vibe-Coded MVP for Regulated Industries](https://www.dhaval-shah.com/architecture-review-supabase/)
 - [Three Azure Cost Leaks - And the Analysis Process That Found Them](https://www.dhaval-shah.com/finops-azure-ai-review/)
 - [A Black Friday Incident Took 9 Days to Resolve - Here&#39;s the Process That Would Have Changed That](https://www.dhaval-shah.com/sre-gc-ai-review/)
 - [Same JSON Storage Problem, Different Database - What Postgres Does Differently](https://www.dhaval-shah.com/db-optimization-ai-review/)
 - [Billion User Trap - The Pagination Mistake That Can Take Down Your Database](https://www.dhaval-shah.com/billion-user-pagination-db-design/)
-- [The GC Summary Report Wasn&#39;t Wrong - It Just Wasn&#39;t Complete](https://www.dhaval-shah.com/gc-comparison-ai-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
