@@ -33,11 +33,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 2 - Teaching It to Look Things Up: Tools, Spring AI and Conversations at Once](https://www.dhaval-shah.com/part-2-ai-native-agent-runs/)
 - [Part 1 - Multiple Runs : Why Deterministic Thinking Breaks!](https://www.dhaval-shah.com/part-1-ai-native-multiple-runs/)
 - [Part 0 - The Dispute That No Rule Could Catch: What AI-Native Really Means in Enterprise Java](https://www.dhaval-shah.com/part-0-ai-native-sys-java/)
 - [The Latency Lie: How Ready Pods Were Quietly Costing a FinTech](https://www.dhaval-shah.com/jvm-startup-optimization/)
 - [The Architect&#39;s Dilemma: Validating a Vibe-Coded MVP for Regulated Industries](https://www.dhaval-shah.com/architecture-review-supabase/)
-- [Three Azure Cost Leaks - And the Analysis Process That Found Them](https://www.dhaval-shah.com/finops-azure-ai-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
